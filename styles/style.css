@@ -1,0 +1,14 @@
+main {
+  display: flex;
+  background-color: #e0e0e0;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 100vh; /* viewport height */
+  width: 300px;
+}
+
+section {
+  background-color: #3399ff;
+  width: 150px;
+  height: 100px;
+}
