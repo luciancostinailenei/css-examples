@@ -21,8 +21,9 @@ footer {
 main {
   display: flex;
   flex-grow: 1;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-between;
+  min-height: 500px;
 }
 
 .padding25 {
