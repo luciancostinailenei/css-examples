@@ -10,6 +10,7 @@ header {
   background-color: #9d00ff;
   color: white;
   padding: 50px;
+  transition: background-color 3s ease 2s;
 }
 
 footer {
